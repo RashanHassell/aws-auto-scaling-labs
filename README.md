@@ -1,5 +1,7 @@
-![Screenshot 2025-04-26 220814](https://github.com/user-attachments/assets/aadb247d-b1b7-42fc-9bae-6d2a6e0bbaf0)
-![Screenshot 2025-04-26 220719](https://github.com/user-attachments/assets/8654d9ee-3ae6-44c9-ae42-2f3f88d1e93d)
+![Screenshot 2025-04-26 220938](https://github.com/user-attachments/assets/5d76a1ea-c432-4e10-8f78-c3aa9bd566d2)
+![Screenshot 2025-04-26 220849](https://github.com/user-attachments/assets/b9103497-a559-4dce-9bdd-6afd53048cad)
+![Screenshot 2025-04-26 220814](https://github.com/user-attachments/assets/b6cbc3b6-dfc5-4ae3-8344-ab39e21d38d5)
+![Screenshot 2025-04-26 220719](https://github.com/user-attachments/assets/ac9ebd3a-9904-48cd-bf58-e2f1db4a311e)
 # aws-auto-scaling-labs
 AWS Lab - Built an Auto Scaling Group behind an Application Load Balancer using Amazon EC2 instances. Configured scaling policies and custom web page deployment. 
 AWS Auto Scaling Lab
